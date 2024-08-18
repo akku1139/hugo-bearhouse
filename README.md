@@ -1,26 +1,24 @@
-# ᕦʕ •ᴥ•ʔᕤ Bear Cub
+# ᕦʕ •ᴥ•ʔᕤ Bear House
 
 [![github pages](https://github.com/clente/hugo-bearcub/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/clente/hugo-bearcub/actions/workflows/gh-pages.yml)
-[![MIT license](https://img.shields.io/github/license/clente/hugo-bearcub)](https://github.com/clente/hugo-bearcub/blob/main/LICENSE)
+[![MIT license](https://img.shields.io/github/license/clente/hugo-bearcub)](https://github.com/akku1139/hugo-bearhouse/blob/main/LICENSE)
 
 ## Overview
 
-🐻 A lightweight [Hugo](https://gohugo.io/) theme based on [Bear
-Blog](https://bearblog.dev) and [Hugo Bear
-Blog](https://github.com/janraasch/hugo-bearblog).
+🐻 A lightweight [Hugo](https://gohugo.io/) theme based on [Bear Blog](https://bearblog.dev), [Hugo Bear Blog](https://github.com/janraasch/hugo-bearblog) and [Hugo Bear Cub](https://github.com/clente/hugo-bearcub/).
 
-**Bear Cub** takes care of speed and optimization, so you can focus on writing
+**Bear House** takes care of speed and optimization, so you can focus on writing
 good content. It is free, multilingual, optimized for search engines,
 no-nonsense, responsive, light, and fast. Really fast.
 
 ## Installation
 
 Follow Hugo's [quick start](https://gohugo.io/getting-started/quick-start/) to
-create an empty website and then clone **Bear Cub** into the themes directory as
+create an empty website and then clone **Bear House** into the themes directory as
 a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules):
 
 ```sh
-git submodule add https://github.com/clente/hugo-bearcub themes/hugo-bearcub
+git submodule add https://github.com/akku1139/hugo-bearhouse themes/hugo-bearhouse
 ```
 
 To finish off, append a line to the site configuration file:
@@ -38,7 +36,7 @@ Like [Bear Blog](https://bearblog.dev), this theme:
 - Has no trackers, ads, or scripts
 - Automatically generates an RSS feed
 
-But that's not all! **Bear Cub** is also...
+But that's not all! **Bear House** is also...
 
 ### Accessible
 
