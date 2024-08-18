@@ -4,3 +4,7 @@
 <!-- https://www.veriphor.com/articles/code-block-render-hooks/ -->
 {{ $result := transform.HighlightCodeBlock . }}
 {{ $result.Wrapped }}
+
+<!-- TODO: https://blog.chick-p.work/blog/hugo-render-hooks-code/ -->
+{{- $name := .Attributes.name -}}
+{{ with $name }}<div>{{ . }}</div>{{ end }}
